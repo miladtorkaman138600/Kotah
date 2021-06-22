@@ -1,12 +1,9 @@
 [
-  {
-    "متن": "داستان داستان لحنانسمیمینینطنمطمطم",
-    "عکس": "https://newshopkala.com/media/2020/11/Book-PNG-Download-Image-300x300.jpg",
-    "امتیاز": "\u003c!-- Rating by www.1abzar.com ---\u003e\n\u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/rating/rating.php?color\u003d444444\u0026bg\u003dEFEFEF\u0026kc\u003d0A39D1\u0026h\u003d1\u0026kadr\u003d2\u0026n\u003d5\u0026mod\u003d9\u0026abzar\u003dxw0f5u33pjmlvoqvrs1e\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch2\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/rating.php\"\u003e\u0026#1575;\u0026#1576;\u0026#1586;\u0026#1575;\u0026#1585; \u0026#1575;\u0026#1605;\u0026#1578;\u0026#1740;\u0026#1575;\u0026#1586; \u0026#1583;\u0026#1607;\u0026#1740;\u003c/a\u003e\u003c/h2\u003e\u003c/div\u003e\n\u003c!-- Rating by www.1abzar.com ---\u003e"
-  },
-  {
-    "متن": "داستان داستان نننبنبنیمینینی",
-    "عکس": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTqwmyIqK6tb6hNcmSwRpMvb1k1bT1yPZ6Sxw\u0026usqp\u003dCAU",
-    "امتیاز": "\u003c!-- Rating by www.1abzar.com ---\u003e\n\u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/rating/rating.php?color\u003d444444\u0026bg\u003dEFEFEF\u0026kc\u003d0A39D1\u0026h\u003d1\u0026kadr\u003d2\u0026n\u003d5\u0026mod\u003d9\u0026abzar\u003d7uktg-zatr390fkku06a\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch2\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/rating.php\"\u003e\u0026#1575;\u0026#1576;\u0026#1586;\u0026#1575;\u0026#1585; \u0026#1575;\u0026#1605;\u0026#1578;\u0026#1740;\u0026#1575;\u0026#1586; \u0026#1583;\u0026#1607;\u0026#1740;\u003c/a\u003e\u003c/h2\u003e\u003c/div\u003e\n\u003c!-- Rating by www.1abzar.com ---\u003e"
-  }
+  [
+    {
+      "متن": "روزی، یک پدر روستایی با پسر پانزده ساله اش وارد یک مرکز تجاری می شوند.\nپسر متوّجه دو دیوار براق نقره‌ای رنگ می شود که بشکل کشویی از هم جدا شدند و دو باره بهم چسبیدند، از پدر می پرسد، این چیست؟\nپدر که تا بحال در عمرش آسانسور ندیده می گوید پسرم، من تا کنون چنین چیزی ندیده ام و نمی دانم.\n\nدر همین موقع آنها زنی بسیار چاق را می بینند که با صندلی چرخدارش به آن دیوار نقره‌ای نزدیک شد و با انگشتش چیزی را روی دیوار فشار داد و دیوار براق از هم جدا شد و آن زن خود را بزحمت وارد اطاقکی کرد، دیوار بسته شد، پدر و پسر هر دو چشمشان به شماره هایی بر بالای آسانسور افتاد که از یک شروع و بتدریج تا سی‌ رفت.\n\nهر دو خیلی‌ متعجب تماشا می کردند که ناگهان، دیدند شماره‌ها بطور معکوس و بسرعت کم شدند تا رسید به یک، در این وقت دیوار نقره‌ای باز شد، و آنها حیرت زده دیدند، دختر ۲۴ ساله مو طلایی بسیار زیبا و ظریف، با طنازی از آن اطاقک خارج شد.\n\nدر حالی که نمی توانست چشم از آن دختر بردارد، به آهستگی، به پسرش گفت: پسرم، زود برو مادرت را بیار اینجا !!",
+      "عکس": "https://www.beytoote.com/images/stories/fun/fun1299.jpg",
+      "امتیاز": "\u003c!-- Rating by www.1abzar.com ---\u003e\n\u003cscript type\u003d\"text/javascript\" src\u003d\"http://1abzar.ir/abzar/tools/rating/rating.php?color\u003d444444\u0026bg\u003dEFEFEF\u0026kc\u003d555555\u0026h\u003d1\u0026kadr\u003d2\u0026n\u003d5\u0026mod\u003d9\u0026abzar\u003dmpmapsf1jc2c9i-3ta9f\"\u003e\u003c/script\u003e\u003cdiv style\u003d\"display:none\"\u003e\u003ch2\u003e\u003ca href\u003d\"http://www.1abzar.com/abzar/rating.php\"\u003e\u0026#1575;\u0026#1576;\u0026#1586;\u0026#1575;\u0026#1585; \u0026#1575;\u0026#1605;\u0026#1578;\u0026#1740;\u0026#1575;\u0026#1586; \u0026#1583;\u0026#1607;\u0026#1740;\u003c/a\u003e\u003c/h2\u003e\u003c/div\u003e\n\u003c!-- Rating by www.1abzar.com ---\u003e"
+    }
+  ]
 ]
